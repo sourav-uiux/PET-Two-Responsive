@@ -1,0 +1,8 @@
+{
+  "name": "PetLove — Dhaka Pet Care, Nutrition & Safe House Network",
+  "description": "PetLove MVP for Dhaka pet owners: tailored monthly pet nutrition packages, verified Safe House foster network, Dhaka community events, pet feed with treats and reward points, and full operations admin console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
